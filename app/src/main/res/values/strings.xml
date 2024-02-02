@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter">Войти</string>
+    <string name="entrance">Вход</string>
+    <string name="title">Title</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="quot_quot">Нажмите кнопку \"Войти\",Вы принемаете</string>
+    <string name="some_text">условия программы лояльности</string>
+</resources>
