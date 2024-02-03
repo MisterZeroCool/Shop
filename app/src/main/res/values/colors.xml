@@ -5,4 +5,5 @@
     <color name="loginBackgroundColor">#F8F8F8</color>
     <color name="loginButtonBackgroundColor">#D62F89</color>
     <color name="colorHint">#A0A1A3</color>
+    <color name="iconTint">#333333</color>
 </resources>
