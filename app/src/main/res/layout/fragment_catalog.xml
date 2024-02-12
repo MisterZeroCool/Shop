@@ -13,7 +13,7 @@
         android:layout_height="21dp"
         android:layout_marginStart="184dp"
         android:layout_marginTop="59dp"
-        android:text="@string/main_header"
+        android:text="@string/catalog"
         android:textColor="@color/black"
         android:textSize="16sp"
         android:textStyle="bold"
